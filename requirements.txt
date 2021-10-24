@@ -137,3 +137,4 @@ Werkzeug==2.0.1
 widgetsnbextension==3.5.1
 zipp==1.0.0
 zope.interface==4.7.1
+nbconvert==6.2.0
